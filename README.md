@@ -18,4 +18,4 @@ Voice-controlled system automation built with Python.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/voice-automation.git
+git clone https://github.com/Arshiya-shaik17/voice-automation.git
