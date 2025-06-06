@@ -2,8 +2,6 @@
 
 Voice-controlled system automation built with Python.
 
----
-
 ## Features
 
 - Open applications by voice commands  
@@ -11,11 +9,9 @@ Voice-controlled system automation built with Python.
 - Speech recognition with Google's API  
 - Text-to-speech feedback
 
----
 
 ## Getting Started
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/Arshiya-shaik17/voice-automation.git
